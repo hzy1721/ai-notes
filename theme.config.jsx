@@ -3,4 +3,13 @@ export default {
   project: {
     link: 'https://github.com/hzy1721/ai-notes',
   },
+  footer: {
+    component: null,
+  },
+  editLink: {
+    text: null,
+  },
+  feedback: {
+    content: null,
+  },
 };
