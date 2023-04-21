@@ -12,4 +12,9 @@ export default {
   feedback: {
     content: null,
   },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – AI Notes',
+    };
+  },
 };

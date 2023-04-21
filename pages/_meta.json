@@ -1,5 +1,20 @@
 {
-  "index": "概览",
-  "traffic-prediction": "交通流预测",
-  "trajectory-prediction": "轨迹预测"
+  "index": {
+    "title": "AI Notes",
+    "display": "hidden",
+    "theme": {
+      "sidebar": false,
+      "breadcrumb": false,
+      "toc": false,
+      "timestamp": false
+    }
+  },
+  "traffic-prediction": {
+    "title": "交通预测",
+    "type": "page"
+  },
+  "pytorch": {
+    "title": "PyTorch",
+    "type": "page"
+  }
 }

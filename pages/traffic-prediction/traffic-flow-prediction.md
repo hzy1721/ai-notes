@@ -1,9 +1,5 @@
 # 交通流预测
 
-|          | 宏观           | 中观      | 微观 |
-| -------- | -------------- | --------- | ---- |
-| 研究对象 | 流量/流速/密度 | 节点/队列 | 轨迹 |
-
 1. DCRNN
    - ICLR-18
    - Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting
