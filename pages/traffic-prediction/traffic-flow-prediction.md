@@ -30,7 +30,6 @@
    - https://github.com/nnzhan/MTGNN
 8. STEP
    - KDD-22
-   - GNN
    - Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting
    - https://github.com/zezhishao/step
 9. D2STGNN
@@ -39,7 +38,6 @@
    - https://github.com/zezhishao/d2stgnn
 10. PDFormer
     - AAAI-23
-    - Transformer
     - PDFormer: Propagation Delay-Aware Dynamic Long-Range Transformer for Traffic Flow Prediction
     - https://github.com/BUAABIGSCity/PDFormer
 11. MegaCRN
