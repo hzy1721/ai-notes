@@ -1,8 +1,8 @@
 {
   "index": "交通预测",
   "traffic-flow-prediction": "交通流预测",
-  "vehicle-trajectory-prediction": "车辆轨迹预测",
   "pedestrian-trajectory-prediction": "行人轨迹预测",
+  "vehicle-trajectory-prediction": "车辆轨迹预测",
   "dataset-storage": "数据集存储格式",
   "gnn": "GNN"
 }
